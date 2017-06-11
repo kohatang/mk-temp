@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Koichi Hatano",
+      "authorEmail": "koihatano@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
