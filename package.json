@@ -1,6 +1,6 @@
 {
   "name": "mk-temp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make a temp directory or file",
   "homepage": "",
   "keywords": [
@@ -26,7 +26,7 @@
       "node": true
     }
   },
-  "repository": "koihatano/mk-temp",
+  "repository": "kohatang/mk-temp",
   "jest": {
     "testEnvironment": "node"
   },
