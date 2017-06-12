@@ -27,6 +27,12 @@ Make a file with path
 mk-temp ~/
 ```
 
+Set string length(default:5)
+
+```
+mk-temp -l 8
+```
+
 ## License
 
 MIT
